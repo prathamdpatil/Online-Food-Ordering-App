@@ -1023,12 +1023,8 @@ const resList = [
         "costForTwo": "₹200 for two",
         "cuisines": [
             "Kebabs",
-            "Fast Food",
             "Snacks",
-            "American",
-            "Healthy Food",
-            "Desserts",
-            "Beverages"
+            "American"
         ],
         "avgRating": 4.2,
         "parentId": "21809",
@@ -1133,10 +1129,6 @@ const resList = [
         "cuisines": [
             "Biryani",
             "North Indian",
-            "Punjabi",
-            "Healthy Food",
-            "Desserts",
-            "Beverages"
         ],
         "avgRating": 4,
         "parentId": "4925",
